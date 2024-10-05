@@ -1,0 +1,28 @@
+.header{text-align: center;
+background-color: #e2491f;
+font-family: verdana;
+width: 100%;
+padding: 5px 0;
+margin: 0;}
+
+body{font-family: verdana;
+background-color: #e2491f
+}
+
+
+img{object-fit: cover;
+display: flex;
+max-width: 100%;
+height: auto;
+justify-content: center;
+margin-left: 275px;}
+
+#img-caption{text-align: center;}
+
+h2{text-align: center;}
+
+.info{display: inline-block;}
+
+.timeline > li{padding: 5px 0;}
+
+h3{text-align: center;}
